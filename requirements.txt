@@ -12,3 +12,4 @@ jsonschema
 matplotlib
 seaborn
 chromadb
+sqlite3
