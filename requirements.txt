@@ -1,0 +1,13 @@
+crewai
+streamlit
+langchain
+langchain-groq
+langchain-community
+wikipedia-api
+duckduckgo-search
+google-search-results
+python-dotenv
+requests
+jsonschema
+matplotlib
+seaborn
