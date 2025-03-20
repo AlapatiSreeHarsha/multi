@@ -11,3 +11,4 @@ requests
 jsonschema
 matplotlib
 seaborn
+chromadb
